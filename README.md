@@ -12,6 +12,7 @@
 
 ```
 npm install
+npm update @babel/preset-env @babel/plugin-transform-runtime --save-dev
 npm start
 open http://localhost:8000/
 ```
